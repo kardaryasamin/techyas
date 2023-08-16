@@ -74,6 +74,10 @@
   margin-left: 0;
 }
 
+.u-section-1 .u-form-group-11 {
+  margin-left: 0;
+}
+
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
     min-height: 1134px;
@@ -92,7 +96,7 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 233px;
+    min-height: 355px;
   }
 
   .u-section-1 .u-layout-cell-1 {
