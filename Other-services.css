@@ -215,7 +215,7 @@
   font-weight: 700;
 }
 
-.u-block-1267-101 {
+.u-block-440f-101 {
   background-image: none;
 }
 
@@ -372,21 +372,21 @@
 }
 
 .u-section-2 .u-container-layout-4 {
-  padding: 20px 30px;
+  padding: 20px 24px;
 }
 
 .u-section-2 .u-text-11 {
   font-weight: 400;
-  margin: 37px 0 0;
+  margin: 0 13px 0 0;
 }
 
 .u-section-2 .u-text-12 {
   font-weight: 900;
-  margin: 74px 0 0;
+  margin: 66px 0 0 13px;
 }
 
 .u-section-2 .u-text-13 {
-  margin: 107px 0 0;
+  margin: 108px 6px 0;
 }
 
 .u-section-2 .u-btn-4 {
@@ -442,10 +442,17 @@
 
   .u-section-2 .u-text-11 {
     width: auto;
+    margin-right: 0;
   }
 
   .u-section-2 .u-text-12 {
     margin-top: 34px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-13 {
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
